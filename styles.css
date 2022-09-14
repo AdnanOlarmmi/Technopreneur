@@ -1,0 +1,316 @@
+:root {
+  --primary-color: #ec5242;
+  --secondary-color: #272a31;
+  --tertiary-color: #d3d3d3;
+  --white: #fff;
+  --gray-black: #373a41;
+}
+
+* {
+  font-family: "Lato", sans-serif;
+}
+
+@font-face {
+  font-family: cocogoose;
+  src: url(Fonts/Cocogoose.otf);
+  font-weight: bold;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  width: 375px;
+  margin: 0 auto;
+  border: 2px solid var(--primary-color);
+}
+
+.logo {
+  align-items: center;
+}
+
+.logo span {
+  font-family: cocogoose, sans-serif;
+}
+
+ul {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+img {
+  object-fit: cover;
+}
+
+.flex-row {
+  display: flex;
+}
+
+.flex-column {
+  display: flex;
+  flex-direction: column;
+}
+
+.sec-nav__list {
+  justify-content: flex-end;
+  gap: 2em;
+  align-items: center;
+  background-color: var(--secondary-color);
+  display: none;
+}
+
+.sec-nav__item:last-child {
+  margin-right: 2rem;
+}
+
+.sec-nav__list li {
+  color: var(--white);
+}
+
+.sec-nav__link {
+  color: var(--color-white);
+}
+
+.burger {
+  margin: 0.5rem 0 0 0.5rem;
+  visibility: visible;
+  cursor: pointer;
+}
+
+header {
+  width: 100%;
+}
+
+.main-nav__list {
+  background-color: var(--primary-color);
+  width: 375px;
+  height: 100vh;
+  gap: 3rem;
+  align-items: center;
+  font-size: 1.5rem;
+  position: absolute;
+  transition: all 0.3s ease-in-out;
+  visibility: hidden;
+}
+
+.XIcon {
+  align-self: flex-end;
+  margin-right: 1rem;
+  cursor: pointer;
+}
+
+.show {
+  visibility: visible;
+}
+
+.main-nav__list li a {
+  color: var(--white);
+  font-family: cocogoose, sans-serif;
+}
+
+main {
+  background-image: url(images/backgrounds/main-bg.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 1em;
+}
+
+main header {
+  color: var(--primary-color);
+}
+
+.card__title {
+  font-size: 1rem;
+  font-weight: 800;
+  background: url(images/about/redfilter.jpeg) no-repeat;
+  background-position: center center;
+  background-size: cover;
+  -webkit-background-clip: text;
+  color: transparent;
+  line-height: 1.3rem;
+  margin: 1rem 0;
+}
+
+.card__text {
+  border: 2px solid var(--white);
+  font-size: 0.5rem;
+  padding: 1em;
+  margin: 0.5rem 0;
+  background-color: var(--tertiary-color);
+  line-height: 1rem;
+}
+
+.date {
+  font-family: cocogoose, sans-serif;
+  font-size: 1.2rem;
+}
+
+.venue {
+  font-size: 0.7rem;
+}
+
+.main-program {
+  align-items: center;
+  justify-content: center;
+  background: url(images/home/fill-bg.png) repeat;
+  background-color: var(--secondary-color);
+  color: var(--white);
+  gap: 2rem;
+  padding: 2em;
+}
+
+.main-program__heading span,
+.featured-speakers__heading span,
+.partners-heading span {
+  border-bottom: 0.15rem solid var(--primary-color);
+  padding-bottom: 0.7em;
+}
+
+.main-program__items {
+  gap: 0.5rem;
+}
+
+.main-program__item {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1.5rem;
+  background-color: var(--gray-black);
+  padding: 1em;
+  flex-wrap: wrap;
+  cursor: pointer;
+  border: 0.15rem solid transparent;
+}
+
+.main-program__item:hover {
+  border-color: var(--white);
+}
+
+.main-program__item h5 {
+  color: var(--primary-color);
+  font-size: 1rem;
+  flex-basis: 33%;
+}
+
+.main-program__item p {
+  font-size: 0.5rem;
+  line-height: 2em;
+  text-align: left;
+  flex-basis: 28%;
+}
+
+.main-footer__mobile {
+  display: none;
+  color: var(--white);
+  text-decoration: underline;
+}
+
+.main-footer__desktop {
+  background-color: var(--primary-color);
+  padding: 1em;
+  cursor: pointer;
+}
+
+.main-footer__desktop p {
+  color: var(--white);
+  font-size: 1rem;
+  font-weight: bold;
+}
+
+.featured-speakers {
+  margin-top: 2rem;
+  align-items: center;
+  gap: 3rem;
+  font-size: 1.5rem;
+}
+
+.featured-speakers__items {
+  display: grid;
+  gap: 1.5rem;
+}
+
+.featured-speaker__image {
+  width: 6rem;
+  height: 6rem;
+  flex-basis: 70%;
+  margin-left: 2rem;
+  margin-top: 1.5rem;
+}
+
+.featured-speaker__image img {
+  width: 100%;
+  height: 100%;
+}
+
+.featured-speakers__item {
+  justify-content: center;
+  gap: 1rem;
+  background: url(images/home/empty-chessboard-svgrepo-com.svg) no-repeat;
+  background-size: 4rem;
+  background-position: 3% 1%;
+}
+
+.featured-speaker {
+  gap: 0.7rem;
+  margin-top: 1rem;
+}
+
+.featured-speaker__name {
+  font-size: 1rem;
+}
+
+.feature-speaker__qualification {
+  color: var(--primary-color);
+  font-size: 0.8rem;
+  font-style: italic;
+  margin-bottom: 0.8rem;
+}
+
+.featured-speaker__about {
+  font-size: 0.8rem;
+  line-height: 1.2rem;
+}
+
+.featured-speaker__about span {
+  border-top: 0.1rem solid var(--primary-color);
+  padding-top: 1em;
+}
+
+.partners {
+  margin-top: 2rem;
+  align-items: center;
+  background-color: var(--gray-black);
+  padding: 1em;
+}
+
+.partners-heading {
+  color: var(--tertiary-color);
+}
+
+.partners-body {
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 1rem;
+}
+
+.footer {
+  padding: 1rem;
+  align-items: center;
+  gap: 1rem;
+}
+
+.footer p {
+  font-size: 0.5rem;
+}
