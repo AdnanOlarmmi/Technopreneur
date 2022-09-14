@@ -1,2 +1,0 @@
-# Technopreneur
-Technopreneurship

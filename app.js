@@ -1,6 +1,6 @@
 const hamburgerEl = document.querySelector('.burger');
 const XIconEl = document.querySelector('.XIcon');
-const mainNavListEl = document.querySelector('.main-nav__list');
+const mainMobileNavListEl = document.querySelector('.main-nav__list__mobile');
 const featuredSpeakers = document.querySelector('.featured-speakers__items');
 
 const featuredSpeakersArray = [
@@ -46,13 +46,13 @@ document.querySelector('.card__title').style.backgroundClip = 'text';
 
 const toggleNav = () => {
   hamburgerEl.addEventListener('click', () => {
-    document.querySelector('#about').style.color = 'var(--white)';
-    mainNavListEl.classList.add('show');
+    mainMobileNavListEl.classList.add('show');
+    hamburgerEl.classList.add('hide');
   });
 
   XIconEl.addEventListener('click', () => {
-    mainNavListEl.classList.remove('show');
-    document.querySelector('#about').style.color = 'var(--primary-color)';
+    mainMobileNavListEl.classList.remove('show');
+    hamburgerEl.classList.remove('hide');
   });
 };
 

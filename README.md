@@ -1,19 +1,19 @@
-# html-css-js-capstone-project
+# Technopreneurship
 
-This is my final project for HTML & CSS MODULE from the microverse curriculum
+This is a project acknowledging and affirming that I have properly understood everything learnt so far from the first module.
 
 <p align="center">
-  <img src="./images/screenshot/mobile.png"/>
+  <img src="./images/screenshots/mobile.png"/>
 </p>
 
 <hr>
 
 <p align="center">
-  <img src="./images/screenshot/desktop.png"/>
+  <img src="./images/screenshots/desktop.png"/>
 </p>
 
 
-This project is meant to test student ability's on being able to put together all that they have learnt in a module to ensure they mastered it well.
+This project is to put to test the understanding of individual student on what they've studied so far from the curriculum's module 1.
 
 ## Built With
 
@@ -22,11 +22,12 @@ This project is meant to test student ability's on being able to put together al
 - JAVASCRIPT
 
 
-Here's a [video ](https://www.loom.com/share/a8e3d9716fa44728be4a7f19a5444ab9) of me giving a few description of the project.
+Click [here](https://www.loom.com/share/1b0968f84b46450fa426ca8cf6bd0d68) to watch a walk-through description, given by me.
 
 ## Live Demo
 
-[Live Demo Link](https://zieeco.github.io/html-css-js-capstone/)
+Here is a live quick demo
+[Live Demo Link](https://adnanolarmmi.github.io/Technopreneur/)
 
 
 ## Getting Started
@@ -35,7 +36,7 @@ To get a local copy up and running:
 
 1. Clone this repository or download the Zip folder:
 
-**``git clone https://github.com/zieeco/html-css-javascript-capstone.git``**
+**``git clone https://github.com/AdnanOlarmmi/Technopreneur.git``**
 
 2. Navigate to the location of the folder in your machine:
 
@@ -43,19 +44,19 @@ To get a local copy up and running:
 
 ## Author
 
-👤 **Isaac Samuel**
+👤 **Is-haq Adnan Olamilekan**
 
-- Github: [@zieeco](https://github.com/zieeco)
-
-- LinkedIn: [Isaac Imaobong Samuel](https://www.linkedin.com/in/isaac-imaobong-samuel-a4849b1b8/)
+- GitHub: [@AdnanOlarmmi](https://github.com/adnanolarmmi)
+- Twitter: [@AdnanIs71755510](https://twitter.com/AdnanIs71755510)
+- LinkedIn: [Adnan (Olamilekan) Is-haq](https://linkedin.com/in/adnan-is-haq-olamilekan)
 
 ## Credits
 
 - The original design ideal by [Cindy Shin in Behance](https://www.behance.net/adagio07)
 
 - Project from [Microverse](https://bit.ly/MicroverseTN) html & css module
-- Images inspired by this [All avatar images](https://pravatar.cc/images)
-
+- Images inspired [Unsplash](unsplash.com)
+- Topic inspired by [Khadija Hamdani](https://www.researchgate.net/publication/329972741_Knowledge_based_entrepreneurship_the_role_of_networks)
 
 ## Contributing
 
@@ -67,6 +68,4 @@ Give a ⭐️ if you like this project and how we manage to build it!
 
 ## 📝 License
 
-This project is [MIT](./MIT.md) licensed
-
-./node_modules/.bin/eslint --fix ./app.js
+This project is [MIT](MIT.md) licensed
