@@ -46,11 +46,13 @@ document.querySelector('.card__title').style.backgroundClip = 'text';
 
 const toggleNav = () => {
   hamburgerEl.addEventListener('click', () => {
+    document.querySelector('#about').style.color = 'var(--white)';
     mainNavListEl.classList.add('show');
   });
 
   XIconEl.addEventListener('click', () => {
     mainNavListEl.classList.remove('show');
+    document.querySelector('#about').style.color = 'var(--primary-color)';
   });
 };
 

@@ -93,7 +93,6 @@ header {
   align-items: center;
   font-size: 1.5rem;
   position: absolute;
-  transition: all 0.3s ease-in-out;
   visibility: hidden;
 }
 
@@ -234,7 +233,6 @@ main header {
   align-items: center;
   gap: 3rem;
   font-size: 1.5rem;
- 
 }
 
 .featured-speakers__items {
@@ -322,6 +320,10 @@ main header {
 
 /* about page styles */
 
+#about {
+  color: var(--primary-color);
+}
+
 main.about {
   text-align: center;
 }
@@ -332,18 +334,18 @@ main.about .card__title {
 }
 
 .card__footer-contactUs {
-  font-size: 0.7rem;
+  font-size: 2vw;
 }
 
 .card__footer-email p {
-  font-size: 0.5rem;
+  font-size: 1.5vw;
   color: var(--secondary-color);
 }
 
 .about-program {
   text-align: center;
   align-items: center;
-  padding: 1.3em;
+  padding: 4em;
   gap: 2rem;
   border-bottom: 0.1rem solid var(--tertiary-color);
 }
@@ -352,10 +354,14 @@ main.about .card__title {
   line-height: 1.5rem;
 }
 
-.about-program__heading span,
 .last-summit__heading span {
   border-bottom: 0.15rem solid var(--primary-color);
-  padding-bottom: 2.5em;
+  padding-bottom: 0.5rem;
+}
+
+.about-program__heading span {
+  border-bottom: 0.15rem solid var(--primary-color);
+  padding-bottom: 1.5vw;
 }
 
 .about-program__text {
@@ -380,23 +386,19 @@ main.about .card__title {
   color: var(--gray-black);
 }
 
-.last-summit__heading span {
-  padding-bottom: 0.5rem;
-}
-
 .last-summit {
   text-align: center;
-  padding: 1rem;
 }
 
 .last-summit__heading {
   font-size: 1rem;
-  margin: 1rem 0;
+  margin-top: 2rem;
 }
 
 .last-summit__text {
-  font-size: 0.7rem;
-  margin: 1rem 0;
+  font-size: 1rem;
+  margin-top: 2rem;
+  margin-bottom: 3rem;
 }
 
 .last-summit__images {
@@ -407,8 +409,8 @@ main.about .card__title {
 }
 
 .last-summit__image-wrapper {
-  width: 10rem;
-  height: 10rem;
+  width: 30vw;
+  height: 30vw;
   position: relative;
   text-align: center;
 }
@@ -416,18 +418,20 @@ main.about .card__title {
 .last-summit__image-wrapper img {
   width: 100%;
   height: 100%;
-  opacity: 0.7;
-  filter: saturate(2);
 }
 
 .last-summit__info {
-  font-size: 1rem;
-  line-height: 1.5rem;
+  padding-top: 7vw;
+  width: 100%;
+  height: 100%;
+  font-size: 2.5vw;
+  line-height: 4vw;
   position: absolute;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
   color: var(--white);
+  background: linear-gradient(to right, rgba(255, 0, 0, 0.7), rgba(252, 0, 0, 0.7));
 }
 
 @media only screen and (min-width: 768px) {
@@ -593,5 +597,17 @@ main.about .card__title {
   .partners-heading {
     font-size: 1.5rem;
     margin-bottom: 2rem;
+  }
+
+  /* about page styles */
+
+  .last-summit__images {
+    flex-direction: row;
+    justify-content: center;
+  }
+
+  .logo-about {
+    margin-top: 2rem;
+    scale: 2;
   }
 }
