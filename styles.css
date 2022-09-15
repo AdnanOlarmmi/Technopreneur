@@ -147,6 +147,10 @@ main header {
   color: transparent;
 }
 
+.card__subtitle {
+  color: var(--primary-color);
+}
+
 .card__text {
   border: 2px solid var(--white);
   font-size: 0.8rem;
@@ -159,10 +163,6 @@ main header {
 .card__footer-email p {
   font-family: cocogoose, sans-serif;
   font-size: 1.2rem;
-}
-
-.date {
-  margin-top: 1.5rem;
 }
 
 .venue {

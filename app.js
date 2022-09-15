@@ -59,7 +59,7 @@ const toggleNav = () => {
 const renderFeaturedSpeaker = () => {
   let markup = '';
   featuredSpeakersArray.forEach((elem) => {
-    markup += `<li class="featured-speakers__item flex-row">
+    markup += `<div class="featured-speakers__item flex-row">
     <div class="featured-speaker__image">
       <img src="${elem.image}" alt="" />
     </div>
@@ -72,7 +72,7 @@ const renderFeaturedSpeaker = () => {
         <span>${elem.about.substring(0, 5)}</span>${elem.about.substring(5)}
       </p>
     </div>
-  </li>`;
+  </div>`;
   });
 
   featuredSpeakers.innerHTML = markup;
