@@ -212,14 +212,14 @@ main header {
 .main-program__item h5 {
   color: var(--primary-color);
   font-size: 1rem;
-  flex-basis: 33%;
+  flex-basis: 20%;
 }
 
 .main-program__item p {
-  font-size: 0.5rem;
+  font-size: 0.8rem;
   line-height: 2em;
   text-align: left;
-  flex-basis: 28%;
+  flex-basis: 50%;
 }
 
 .main-footer__desktop {
