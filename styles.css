@@ -138,7 +138,7 @@ main header {
 }
 
 .card__heading {
-  font-size: 1.2rem;
+  font-size: 1.3rem;
   font-weight: 800;
   background: url(images/about/redfilter.jpeg) no-repeat;
   background-position: center center;
@@ -233,6 +233,11 @@ main header {
   color: var(--white);
   font-size: 1rem;
   cursor: pointer;
+  border: 2px solid transparent;
+}
+
+.main-footer__mobile:hover {
+  border-color: var(--white);
 }
 
 .main-footer__desktop p {
