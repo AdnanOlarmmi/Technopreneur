@@ -49,31 +49,35 @@ Here is a live quick demo
 ## Getting Started
 
 To get a local copy up and running:
+To get a local copy of this project on your local machine up and running follow the steps below.
 
-1. Clone this repository or download the Zip folder:
+### Prerequisites
+
+- Basic html, css and medium Javascript know how.
+- Git installation
+- A text editor 
+- A terminal
+- A web browser to view output
+- An IDE e.g Visual studio code
+
+### Setup
+
+- Clone this repository or download the Zip folder:
 
 ```
 git clone https://github.com/AdnanOlarmmi/Technopreneur.git
 ```
 
-2. Navigate to the location of the folder in your machine:
+- Navigate to the location of the folder in your machine:
 
 **``you@your-Pc-name:~$ cd <folder>``**
 
-## Usage
+### Usage
 
 - After Cloning this repo to your local machine
 - Open the `index.html` in your browser
 
-## Prerequisites
-
-Basic html, css and medium Javascript know how.
-
-## Setup
-
-An IDE e.g Visual studio code
-
-## Run Tests
+### Run Tests
 To track linter errors locally follow these steps:  
 
 Download all the dependencies run:
@@ -93,7 +97,7 @@ Track JavaScript linter errors run:
 npx eslint .
 ```
 
-## Deployment
+### Deployment
 
 - I used GitHub Pages to deploy my website
 - For more information about publishing sources, see "[About github page](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages#publishing-sources-for-github-pages-sites)"
