@@ -42,7 +42,7 @@ const featuredSpeakersArray = [
   },
 ];
 
-document.querySelector('.card__title').style.backgroundClip = 'text';
+document.querySelector('.card__heading').style.backgroundClip = 'text';
 
 const toggleNav = () => {
   hamburgerEl.addEventListener('click', () => {

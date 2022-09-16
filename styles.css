@@ -29,10 +29,6 @@ html {
   overflow-x: hidden;
 }
 
-body {
-  width: 122%;
-}
-
 #home {
   color: var(--primary-color);
 }
@@ -92,7 +88,7 @@ img {
   display: flex;
   flex-direction: column;
   background-color: var(--primary-color);
-  width: 100%;
+  width: 100vw;
   height: 100vh;
   gap: 3rem;
   align-items: center;
@@ -130,16 +126,19 @@ main {
   background-image: url(images/backgrounds/main-bg.png);
   background-repeat: no-repeat;
   background-size: cover;
-  padding: 5em 2em 2em;
-  height: 70vh;
+  padding: 3em;
+  height: 50vh;
+  width: 100%;
+  margin: 0 auto;
+  min-height: max-content;
 }
 
 main header {
   color: var(--primary-color);
 }
 
-.card__title {
-  font-size: 1.9rem;
+.card__heading {
+  font-size: 1.2rem;
   font-weight: 800;
   background: url(images/about/redfilter.jpeg) no-repeat;
   background-position: center center;
@@ -150,6 +149,7 @@ main header {
 
 .card__subtitle {
   color: var(--primary-color);
+  font-size: 1rem;
 }
 
 .card__text {
@@ -196,11 +196,9 @@ main header {
 .main-program__item {
   display: flex;
   align-items: center;
-  justify-content: center;
-  gap: 1.5rem;
+  gap: 1rem;
   background-color: var(--gray-black);
   padding: 1em;
-  flex-wrap: wrap;
   cursor: pointer;
   border: 0.15rem solid transparent;
 }
@@ -219,7 +217,7 @@ main header {
   font-size: 0.8rem;
   line-height: 2em;
   text-align: left;
-  flex-basis: 50%;
+  flex-basis: 60%;
 }
 
 .main-footer__desktop {
@@ -245,9 +243,12 @@ main header {
 
 .featured-speakers {
   margin-top: 2rem;
-  align-items: center;
   gap: 3rem;
   font-size: 1.5rem;
+}
+
+.featured-speakers__heading {
+  margin: 0 auto;
 }
 
 .featured-speakers__items {
@@ -261,6 +262,7 @@ main header {
   height: 6rem;
   margin-left: 2rem;
   margin-top: 1.5rem;
+  max-width: 100%;
 }
 
 .featured-speaker__image img {
@@ -343,7 +345,7 @@ main.about {
   text-align: center;
 }
 
-main.about .card__title {
+main.about .card__heading {
   color: var(--primary-color);
   background-image: none;
 }
@@ -539,7 +541,7 @@ main.about .card__title {
     font-size: 1.5rem;
   }
 
-  main .card__title {
+  main .card__heading {
     font-size: 2.5rem;
   }
 
