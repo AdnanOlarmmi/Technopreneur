@@ -29,6 +29,10 @@ html {
   overflow-x: hidden;
 }
 
+body {
+  width: 122%;
+}
+
 #home {
   color: var(--primary-color);
 }
@@ -74,10 +78,6 @@ img {
   position: fixed;
 }
 
-header {
-  width: 100%;
-}
-
 .main-nav .logo {
   visibility: hidden;
   position: absolute;
@@ -92,8 +92,8 @@ header {
   display: flex;
   flex-direction: column;
   background-color: var(--primary-color);
+  width: 100vw;
   height: 100vh;
-  width: 100%;
   gap: 3rem;
   align-items: center;
   font-size: 1.5rem;
@@ -130,7 +130,7 @@ main {
   background-image: url(images/backgrounds/main-bg.png);
   background-repeat: no-repeat;
   background-size: cover;
-  padding: 3em;
+  padding: 5em 2em 2em;
   height: 70vh;
 }
 
@@ -139,7 +139,7 @@ main header {
 }
 
 .card__title {
-  font-size: 2rem;
+  font-size: 1.9rem;
   font-weight: 800;
   background: url(images/about/redfilter.jpeg) no-repeat;
   background-position: center center;
