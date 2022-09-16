@@ -12,6 +12,7 @@ This is a project acknowledging and affirming that I have properly understood ev
   <img src="./images/screenshots/desktop.png"/>
 </p>
 
+# Technopreneurship
 
 This project is to put to test the understanding of individual student on what they've studied so far from the curriculum's module 1.
 
@@ -21,8 +22,13 @@ This project is to put to test the understanding of individual student on what t
 - CSS
 - JAVASCRIPT
 
-
 Click [here](https://www.loom.com/share/1b0968f84b46450fa426ca8cf6bd0d68) to watch a walk-through description, given by me.
+
+## Additional Tools
+
+- WebHint
+- Stylelint
+- ESlint
 
 ## Live Demo
 
@@ -36,11 +42,41 @@ To get a local copy up and running:
 
 1. Clone this repository or download the Zip folder:
 
-**``git clone https://github.com/AdnanOlarmmi/Technopreneur.git``**
+```
+git clone https://github.com/AdnanOlarmmi/Technopreneur.git
+```
 
 2. Navigate to the location of the folder in your machine:
 
 **``you@your-Pc-name:~$ cd <folder>``**
+
+### Prerequisites
+
+Basic html and css knowledge
+
+### Setup
+
+An IDE e.g Visual studio code
+
+## Test
+To track linter errors locally follow these steps:  
+
+Download all the dependencies run:
+```
+npm install
+```
+Track HTML linter errors run:
+```
+npx hint .
+```
+Track CSS linter errors run:
+```
+npx stylelint "**/*.{css,scss}"
+```
+Track JavaScript linter errors run:
+```
+npx eslint ."
+```
 
 ## Author
 
@@ -61,10 +97,18 @@ To get a local copy up and running:
 ## Contributing
 
 Contributions, issues, and feature requests are welcome!
+Feel free to check the [issues page](https://github.com/AdnanOlarmmi/Technopreneur/issues).
 
 ## Show your support
 
 Give a ⭐️ if you like this project and how we manage to build it!
+
+## Acknowledgments
+
+- This project is part of Capstone week of module 1 in the Microverse study program.
+- Thanks to the Microverse team for the great curriculum.
+- Thanks to Code Reviewers for the insightful feedback.
+- A great thanks to My coding partners, morning session team, and standup team Partners for their contributions.
 
 ## 📝 License
 
