@@ -110,6 +110,7 @@ Give a ⭐️ if you like this project and how we manage to build it!
 - Thanks to the Microverse team for the great curriculum.
 - Thanks to Code Reviewers for the insightful feedback.
 - A great thanks to My coding partners, morning session team, and standup team Partners for their contributions.
+- Hat tip to anyone whose code was used.
 
 ## 📝 License
 
