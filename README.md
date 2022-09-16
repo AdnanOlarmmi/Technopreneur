@@ -51,6 +51,11 @@ git clone https://github.com/AdnanOlarmmi/Technopreneur.git
 
 **``you@your-Pc-name:~$ cd <folder>``**
 
+## Usage
+
+- After Cloning this repo to your local machine
+- Open the `index.html` in your browser
+
 ### Prerequisites
 
 Basic html, css and medium Javascript know how.
