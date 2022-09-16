@@ -51,13 +51,13 @@ git clone https://github.com/AdnanOlarmmi/Technopreneur.git
 
 ### Prerequisites
 
-Basic html and css knowledge
+Basic html, css and medium Javascript know how.
 
 ### Setup
 
 An IDE e.g Visual studio code
 
-## Test
+## Run Tests
 To track linter errors locally follow these steps:  
 
 Download all the dependencies run:
