@@ -4,17 +4,26 @@
 
 This is a project acknowledging and affirming that I have properly understood everything learnt so far from the first module.
 
-<p align="center">
-  <img src="./images/screenshots/mobile.png"/>
-</p>
-
-<hr>
-
-<p align="center">
-  <img src="./images/screenshots/desktop.png"/>
-</p>
+> |     | Mobile version                      | Desktop version                      |     |
+> | --- | ----------------------------------- | ------------------------------------ | --- |
+> |     | ![Screenshot1](./images/screenshots/mobile.png) | ![Screenshot2](./images/screenshots/desktop.png) |
 
 This project is to put to test the understanding of individual student on what they've studied so far from the curriculum's module 1.
+
+> Learning objectives
+
+- I Used semantic HTML tags.
+- I Applied best practices in HTML code.
+- Used CSS selectors correctly.
+- Used CSS box model.
+- Used Flexbox to place elements on the page.
+- Demonstrated ability to create UIs adaptable to different screen sizes using media queries.
+- Used GitHub Pages to deploy web pages.
+- Applied JavaScript best practices and language style guides in code.
+- Used JavaScript to manipulate DOM elements.
+- Used JavaScript events.
+- Used objects to store and access data.
+- Communicated technical concepts to other technical people.
 
 ## Built With
 
