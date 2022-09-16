@@ -56,11 +56,11 @@ git clone https://github.com/AdnanOlarmmi/Technopreneur.git
 - After Cloning this repo to your local machine
 - Open the `index.html` in your browser
 
-### Prerequisites
+## Prerequisites
 
 Basic html, css and medium Javascript know how.
 
-### Setup
+## Setup
 
 An IDE e.g Visual studio code
 
