@@ -106,10 +106,9 @@ Give a ⭐️ if you like this project and how we manage to build it!
 
 ## Acknowledgments
 
-- This project is part of Capstone week of module 1 in the Microverse study program.
 - Thanks to the Microverse team for the great curriculum.
-- Thanks to Code Reviewers for the insightful feedback.
-- A great thanks to My coding partners, morning session team, and standup team Partners for their contributions.
+- Thanks to the Code Reviewer(s) for the insightful feedback.
+- A great thanks to My coding partner(s), morning session team, and standup team for their contributions.
 - Hat tip to anyone whose code was used.
 
 ## 📝 License
