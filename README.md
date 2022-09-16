@@ -90,9 +90,8 @@ npx eslint .
 ## Credits
 
 - The original design ideal by [Cindy Shin in Behance](https://www.behance.net/adagio07)
-
 - Project from [Microverse](https://bit.ly/MicroverseTN) html & css module
-- Images inspired [Unsplash](unsplash.com)
+- Images inspired by [Unsplash](unsplash.com)
 - Topic inspired by [Khadija Hamdani](https://www.researchgate.net/publication/329972741_Knowledge_based_entrepreneurship_the_role_of_networks)
 
 ## Contributing
