@@ -73,7 +73,7 @@ npx stylelint "**/*.{css,scss}"
 ```
 Track JavaScript linter errors run:
 ```
-npx eslint ."
+npx eslint .
 ```
 
 ## Author
