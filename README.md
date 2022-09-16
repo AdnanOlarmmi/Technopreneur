@@ -12,8 +12,6 @@ This is a project acknowledging and affirming that I have properly understood ev
   <img src="./images/screenshots/desktop.png"/>
 </p>
 
-# Technopreneurship
-
 This project is to put to test the understanding of individual student on what they've studied so far from the curriculum's module 1.
 
 ## Built With
