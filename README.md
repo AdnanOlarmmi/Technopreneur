@@ -27,6 +27,7 @@ Click [here](https://www.loom.com/share/1b0968f84b46450fa426ca8cf6bd0d68) to wat
 - WebHint
 - Stylelint
 - ESlint
+- Node Packet Manager
 
 ## Live Demo
 
