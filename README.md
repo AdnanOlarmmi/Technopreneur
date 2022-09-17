@@ -44,14 +44,11 @@ Click [here](https://www.loom.com/share/1b0968f84b46450fa426ca8cf6bd0d68) to wat
 
 ## Live Demo
 
-Here is a live quick demo
-[Live Demo Link](https://adnanolarmmi.github.io/Technopreneur/)
-
+[Here](https://adnanolarmmi.github.io/Technopreneur/) is the live demo.
 
 ## Getting Started
 
-To get a local copy up and running:
-To get a local copy of this project on your local machine up and running follow the steps below.
+To get a local copy of this project up and running on your local machine follow the steps below.
 
 ### Prerequisites
 
@@ -59,7 +56,7 @@ To get a local copy of this project on your local machine up and running follow 
 - Git installation
 - A text editor 
 - A terminal
-- A web browser to view output
+- A web browser to view output e.g Google Chrome
 - An IDE e.g Visual studio code
 
 ### Setup
