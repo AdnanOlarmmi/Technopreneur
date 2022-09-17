@@ -122,7 +122,7 @@ img {
   font-family: cocogoose, sans-serif;
 }
 
-main {
+.hero {
   background-image: url(images/backgrounds/main-bg.png);
   background-repeat: no-repeat;
   background-size: cover;
@@ -133,11 +133,7 @@ main {
   min-height: max-content;
 }
 
-main header {
-  color: var(--primary-color);
-}
-
-.card__heading {
+.hero__heading {
   font-size: 1.3rem;
   font-weight: 800;
   background: url(images/about/redfilter.jpeg) no-repeat;
@@ -147,12 +143,12 @@ main header {
   color: transparent;
 }
 
-.card__subtitle {
+.hero__subtitle {
   color: var(--primary-color);
   font-size: 1rem;
 }
 
-.card__text {
+.hero__text {
   border: 2px solid var(--white);
   font-size: 0.8rem;
   padding: 1em;
@@ -161,7 +157,7 @@ main header {
 }
 
 .date,
-.card__footer-email p {
+.hero__footer-email p {
   font-family: cocogoose, sans-serif;
   font-size: 1.2rem;
 }
@@ -346,20 +342,20 @@ main header {
   color: var(--primary-color);
 }
 
-main.about {
+.hero.about {
   text-align: center;
 }
 
-main.about .card__heading {
+.hero.about .hero__heading {
   color: var(--primary-color);
   background-image: none;
 }
 
-.card__footer-contactUs {
+.hero__footer-contactUs {
   font-size: 2vw;
 }
 
-.card__footer-email p {
+.hero__footer-email p {
   font-size: 1.5vw;
   color: var(--secondary-color);
 }
@@ -537,29 +533,29 @@ main.about .card__heading {
     font-family: "Lato", sans-serif;
   }
 
-  main {
+  .hero {
     height: 100vh;
     padding: 10vw;
   }
 
-  main .card__subtitle {
+  .hero .hero__subtitle {
     font-size: 1.5rem;
   }
 
-  main .card__heading {
+  .hero .hero__heading {
     font-size: 2.5rem;
   }
 
-  main .card__body .card__text {
+  .hero .hero__body .hero__text {
     font-size: 1rem;
     margin: 2rem 0;
   }
 
-  main .date {
+  .hero .date {
     font-size: 2rem;
   }
 
-  main .venue {
+  .hero .venue {
     font-size: 1rem;
   }
 
