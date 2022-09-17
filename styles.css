@@ -123,14 +123,13 @@ img {
 }
 
 .hero {
-  background-image: url(images/backgrounds/main-bg.png);
+  background-image: url(images/backgrounds/mobile-bg.png);
   background-repeat: no-repeat;
   background-size: cover;
   padding: 3em;
-  height: 50vh;
   width: 100%;
-  margin: 0 auto;
   min-height: max-content;
+  margin: 0 auto;
 }
 
 .hero__heading {
@@ -141,6 +140,7 @@ img {
   background-size: cover;
   -webkit-background-clip: text;
   color: transparent;
+  margin-bottom: 1rem;
 }
 
 .hero__subtitle {
@@ -154,6 +154,7 @@ img {
   padding: 1em;
   margin: 0.5rem 0;
   background-color: var(--tertiary-color);
+  width: fit-content;
 }
 
 .date,
@@ -534,8 +535,8 @@ img {
   }
 
   .hero {
-    height: 100vh;
-    padding: 10vw;
+    background-image: url(images/backgrounds/main-bg.png);
+    padding: 6vw 10vw;
   }
 
   .hero .hero__subtitle {
