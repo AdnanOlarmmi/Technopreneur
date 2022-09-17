@@ -210,14 +210,14 @@ main header {
 .main-program__item h5 {
   color: var(--primary-color);
   font-size: 1rem;
-  flex-basis: 20%;
+  width: 10rem;
+  text-align: center;
 }
 
 .main-program__item p {
   font-size: 0.8rem;
   line-height: 2em;
-  text-align: left;
-  flex-basis: 60%;
+  flex-shrink: 2;
 }
 
 .main-footer__desktop {
@@ -579,7 +579,6 @@ main.about .card__heading {
 
   .main-program__item {
     flex-direction: column;
-    height: 20rem;
     padding-top: 1rem;
     padding-bottom: 1rem;
   }
@@ -587,14 +586,13 @@ main.about .card__heading {
   .main-program__item h5 {
     color: var(--primary-color);
     font-size: 1rem;
-    flex-basis: 3%;
   }
 
   .main-program__item p {
-    font-size: 0.6rem;
+    font-size: 0.8rem;
     line-height: 2em;
     text-align: center;
-    flex-basis: 33%;
+    flex-shrink: 1;
   }
 
   .main-footer__desktop {
