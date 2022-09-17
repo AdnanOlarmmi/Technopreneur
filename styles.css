@@ -198,6 +198,7 @@ img {
   padding: 1em;
   cursor: pointer;
   border: 0.15rem solid transparent;
+  width: 95vw;
 }
 
 .main-program__item:hover {
@@ -256,7 +257,7 @@ img {
 .featured-speakers__items {
   display: grid;
   gap: 1.5rem;
-  padding: 1rem 5rem;
+  padding: 1rem 0.5rem;
 }
 
 .featured-speaker__image {
@@ -299,6 +300,7 @@ img {
 
 .featured-speaker__about {
   font-size: 0.8rem;
+  width: 100%;
   line-height: 1.2rem;
 }
 
@@ -614,6 +616,10 @@ img {
     grid-template-columns: repeat(2, 1fr);
     gap: 1rem;
     padding: 2rem 7rem;
+  }
+
+  .featured-speaker__about {
+    width: 50%;
   }
 
   .partners {
