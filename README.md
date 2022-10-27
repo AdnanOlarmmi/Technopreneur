@@ -14,19 +14,6 @@ This project is to put to test the understanding of individual student on what t
 
 > Learning objectives
 
-- I Used semantic HTML tags.
-- I Applied best practices in HTML code.
-- Used CSS selectors correctly.
-- Used CSS box model.
-- Used Flexbox to place elements on the page.
-- Demonstrated ability to create UIs adaptable to different screen sizes using media queries.
-- Used GitHub Pages to deploy web pages.
-- Applied JavaScript best practices and language style guides in code.
-- Used JavaScript to manipulate DOM elements.
-- Used JavaScript events.
-- Used objects to store and access data.
-- Communicated technical concepts to other technical people.
-
 ## Built With
 
 - HTML
@@ -69,7 +56,7 @@ git clone https://github.com/AdnanOlarmmi/Technopreneur.git
 
 - Navigate to the location of the folder in your machine:
 
-**``you@your-Pc-name:~$ cd <folder>``**
+**``you@your-Pc-name:~$ cd Technopreneur``**
 
 ### Usage
 
@@ -106,7 +93,7 @@ npx eslint .
 👤 **Is-haq Adnan Olamilekan**
 
 - GitHub: [@AdnanOlarmmi](https://github.com/adnanolarmmi)
-- Twitter: [@AdnanIs71755510](https://twitter.com/AdnanIs71755510)
+- Twitter: [@AdnanIshaqOla](https://twitter.com/AdnanIshaqOla)
 - LinkedIn: [Adnan (Olamilekan) Is-haq](https://linkedin.com/in/adnan-is-haq-olamilekan)
 
 ## Credits
