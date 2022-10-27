@@ -2,6 +2,8 @@
 
 # Technopreneurship
 
+Technopreneur is the flagship event of IEDC MEC, and one of the most looked forward to events in MEC. It is the annual entrepreneurial and managerial symposium of Model Engineering College and includes a plethora of events including Idea Pitching, Prototype Development, hackathons, and much more.
+
 This is a project acknowledging and affirming that I have properly understood everything learnt so far from the first module.
 
 - Here is the page preview
@@ -10,9 +12,7 @@ This is a project acknowledging and affirming that I have properly understood ev
 > | --- | ----------------------------------- | ------------------------------------ | --- |
 > |     | ![Screenshot1](./images/screenshots/mobile.png) | ![Screenshot2](./images/screenshots/desktop.png) |
 
-This project is to put to test the understanding of individual student on what they've studied so far from the curriculum's module 1.
-
-> Learning objectives
+This project is to put to test the understanding of individual student on what they've studied so far from the Microverse module 1.
 
 ## Built With
 
