@@ -1,8 +1,9 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Technopreneurship
+# Technopreneur
 
-This is a project acknowledging and affirming that I have properly understood everything learnt so far from the first module.
+Technopreneur is the flagship event of IEDC MEC, and one of the most looked forward to events in MEC. It is the annual entrepreneurial and managerial symposium of Model Engineering College and includes a plethora of events including Idea Pitching, Prototype Development, hackathons, and much more.
+
 
 - Here is the page preview
 
@@ -10,22 +11,8 @@ This is a project acknowledging and affirming that I have properly understood ev
 > | --- | ----------------------------------- | ------------------------------------ | --- |
 > |     | ![Screenshot1](./images/screenshots/mobile.gif) | ![Screenshot2](./images/screenshots/desktop.gif) |
 
-This project is to put to test the understanding of individual student on what they've studied so far from the curriculum's module 1.
-
-> Learning objectives
-
-- I Used semantic HTML tags.
-- I Applied best practices in HTML code.
-- Used CSS selectors correctly.
-- Used CSS box model.
-- Used Flexbox to place elements on the page.
-- Demonstrated ability to create UIs adaptable to different screen sizes using media queries.
-- Used GitHub Pages to deploy web pages.
-- Applied JavaScript best practices and language style guides in code.
-- Used JavaScript to manipulate DOM elements.
-- Used JavaScript events.
-- Used objects to store and access data.
-- Communicated technical concepts to other technical people.
+This project is to put to test the understanding of individual student on what they've studied so far from the Microverse module 1.
+This is a project acknowledging and affirming that I have properly understood everything learnt so far from the first module.
 
 ## Built With
 
@@ -52,10 +39,8 @@ To get a local copy of this project up and running on your local machine follow 
 
 ### Prerequisites
 
-- Basic html, css and medium Javascript know how.
-- Git installation
-- A text editor 
-- A terminal
+- A text editor
+- A terminal 
 - A web browser to view output e.g Google Chrome
 - An IDE e.g Visual studio code
 
@@ -69,7 +54,7 @@ git clone https://github.com/AdnanOlarmmi/Technopreneur.git
 
 - Navigate to the location of the folder in your machine:
 
-**``you@your-Pc-name:~$ cd <folder>``**
+**``you@your-Pc-name:~$ cd Technopreneur``**
 
 ### Usage
 
@@ -106,7 +91,7 @@ npx eslint .
 👤 **Is-haq Adnan Olamilekan**
 
 - GitHub: [@AdnanOlarmmi](https://github.com/adnanolarmmi)
-- Twitter: [@AdnanIs71755510](https://twitter.com/AdnanIs71755510)
+- Twitter: [@AdnanIshaqOla](https://twitter.com/AdnanIshaqOla)
 - LinkedIn: [Adnan (Olamilekan) Is-haq](https://linkedin.com/in/adnan-is-haq-olamilekan)
 
 ## Credits
