@@ -173,8 +173,8 @@ Give a ⭐️ if you like this project and how I managed to build it!
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 - The original design ideal by [Cindy Shin in Behance](https://www.behance.net/adagio07).
-- Project from [Microverse](https://bit.ly/MicroverseTN) html & css module.
-- Images inspired by [Unsplash](unsplash.com).
+- Project from [Microverse](https://www.microverse.org/) html & css module.
+- Images inspired by [Unsplash](https://unsplash.com/).
 - Topic inspired by [Khadija Hamdani](https://www.researchgate.net/publication/329972741_Knowledge_based_entrepreneurship_the_role_of_networks).
 - Thanks to the Microverse team for the great curriculum.
 - Thanks to the Code Reviewer(s) for the insightful feedbacks.
