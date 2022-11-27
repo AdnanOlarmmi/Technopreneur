@@ -33,7 +33,7 @@
 
 # 📖 Technopreneur <a name="about-project"></a>
 
-**Technopreneur** is the flagship event of IEDC MEC, and one of the most looked forward to events in MEC. It is the annual entrepreneurial and managerial symposium of Model Engineering College and includes a plethora of events including Research, Designing, Networking, Discussion, Knowledge and much more.
+**Technopreneur** is a responsive, pixel perfect and optimized web app for the flagship event of IEDC MEC, and one of the most looked forward to events in MEC. It is the annual entrepreneurial and managerial symposium of Model Engineering College and includes a plethora of events including Research, Designing, Networking, Discussion, Knowledge and much more.
 
 ## 🛠 Built With <a name="built-with"></a>
 
