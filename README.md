@@ -60,6 +60,10 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
+> |     | Mobile version                      | Desktop version                      |     |
+> | --- | ----------------------------------- | ------------------------------------ | --- |
+> |     | ![Screenshot1](./images/screenshots/mobile.gif) | ![Screenshot2](./images/screenshots/desktop.gif) |
+
 - [Here is the link to the live experience](https://adnanolarmmi.github.io/Technopreneur/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
