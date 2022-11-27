@@ -59,7 +59,7 @@ After you're finished please remove all the comments and instructions!
 
 # 📖 Technopreneur <a name="about-project"></a>
 
-> **Technopreneur** is the flagship event of IEDC MEC, and one of the most looked forward to events in MEC. It is the annual entrepreneurial and managerial symposium of Model Engineering College and includes a plethora of events including Idea Pitching, Prototype Development, hackathons, and much more.
+**Technopreneur** is the flagship event of IEDC MEC, and one of the most looked forward to events in MEC. It is the annual entrepreneurial and managerial symposium of Model Engineering College and includes a plethora of events including Idea Pitching, Prototype Development, hackathons, and much more.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -80,8 +80,6 @@ After you're finished please remove all the comments and instructions!
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
-
 - **Responsive Design**
 - **Pixel Perfect design**
 - **Multi pages app**
@@ -92,9 +90,7 @@ After you're finished please remove all the comments and instructions!
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> Add a link to your deployed project.
-
-- [Live Demo Link](https://adnanolarmmi.github.io/Technopreneur/)
+- [Here is the link to the live experience](https://adnanolarmmi.github.io/Technopreneur/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -102,18 +98,15 @@ After you're finished please remove all the comments and instructions!
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> Describe how a new developer could make use of your project.
-
 To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
 In order to run this project you need:
 
-- A text editor
+- A web browser to view output e.g [Google Chrome](https://www.google.com/chrome/)
+- An IDE e.g [Visual studio code](https://code.visualstudio.com/)
 - A terminal 
-- A web browser to view output e.g Google Chrome
-- An IDE e.g Visual studio code
 
 <!--
 Example command:
