@@ -23,7 +23,7 @@
   - [Install](#install)
   - [Usage](#usage)
   - [Run tests](#run-tests)
-  - [Deployment](#triangular_flag_on_post-deployment)
+  - [Deployment](#deployment)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
@@ -129,7 +129,7 @@ npx stylelint "**/*.{css,scss}"
 npx eslint .
 ```
 
-### Deployment
+### Deployment <a name="deployment"></a>
 
 You can deploy this project using: GitHub Pages,
 - I used GitHub Pages to deploy my website.
