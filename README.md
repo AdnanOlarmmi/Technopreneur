@@ -1,122 +1,285 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+<a name="readme-top"></a>
 
-# Technopreneur
+<!--
+HOW TO USE:
+This is an example of how you may give instructions on setting up your project locally.
 
-Technopreneur is the flagship event of IEDC MEC, and one of the most looked forward to events in MEC. It is the annual entrepreneurial and managerial symposium of Model Engineering College and includes a plethora of events including Idea Pitching, Prototype Development, hackathons, and much more.
+Modify this file to match your project and remove sections that don't apply.
 
+REQUIRED SECTIONS:
+- Table of Contents
+- About the Project
+  - Built With
+  - Live Demo
+- Getting Started
+- Authors
+- Future Features
+- Contributing
+- Show your support
+- Acknowledgements
+- License
 
-- Here is the page preview
+After you're finished please remove all the comments and instructions!
+-->
 
-> |     | Mobile version                      | Desktop version                      |     |
-> | --- | ----------------------------------- | ------------------------------------ | --- |
-> |     | ![Screenshot1](./images/screenshots/mobile.gif) | ![Screenshot2](./images/screenshots/desktop.gif) |
+<div align="center">
 
-This project is to put to test the understanding of individual student on what they've studied so far from the Microverse module 1.
-This is a project acknowledging and affirming that I have properly understood everything learnt so far from the first module.
+  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
+  <br/>
 
-## Built With
+  <h3><b>Microverse README Template</b></h3>
 
-- HTML
-- CSS
-- JAVASCRIPT
+</div>
 
-Click [here](https://www.loom.com/share/1b0968f84b46450fa426ca8cf6bd0d68) to watch a walk-through description, given by me.
+<!-- TABLE OF CONTENTS -->
 
-## Additional Tools
+# 📗 Table of Contents
 
-- WebHint
-- Stylelint
-- ESlint
-- Node Packet Manager
+- [📖 About the Project](#about-project)
+  - [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
+  - [🚀 Live Demo](#live-demo)
+- [💻 Getting Started](#getting-started)
+  - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+  - [Install](#install)
+  - [Usage](#usage)
+  - [Run tests](#run-tests)
+  - [Deployment](#triangular_flag_on_post-deployment)
+- [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
+- [❓ FAQ](#faq)
+- [📝 License](#license)
 
-## Live Demo
+<!-- PROJECT DESCRIPTION -->
 
-[Here](https://adnanolarmmi.github.io/Technopreneur/) is the live demo.
+# 📖 [Technopreneur] <a name="about-project"></a>
 
-## Getting Started
+> Describe your project in 1 or 2 sentences.
 
-To get a local copy of this project up and running on your local machine follow the steps below.
+**[your_project__name]** is a...
+
+## 🛠 Built With <a name="built-with"></a>
+
+### Tech Stack <a name="tech-stack"></a>
+
+> Describe the tech stack and include only the relevant sections that apply to your project.
+
+<details>
+  <summary>Client</summary>
+  <ul>
+    <li><a href="https://reactjs.org/">React.js</a></li>
+  </ul>
+</details>
+
+<details>
+  <summary>Server</summary>
+  <ul>
+    <li><a href="https://expressjs.com/">Express.js</a></li>
+  </ul>
+</details>
+
+<details>
+<summary>Database</summary>
+  <ul>
+    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
+  </ul>
+</details>
+
+<!-- Features -->
+
+### Key Features <a name="key-features"></a>
+
+> Describe between 1-3 key features of the application.
+
+- **[key_feature_1]**
+- **[key_feature_2]**
+- **[key_feature_3]**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LIVE DEMO -->
+
+## 🚀 Live Demo <a name="live-demo"></a>
+
+> Add a link to your deployed project.
+
+- [Live Demo Link](https://yourdeployedapplicationlink.com)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- GETTING STARTED -->
+
+## 💻 Getting Started <a name="getting-started"></a>
+
+> Describe how a new developer could make use of your project.
+
+To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
-- A text editor
-- A terminal 
-- A web browser to view output e.g Google Chrome
-- An IDE e.g Visual studio code
+In order to run this project you need:
+
+<!--
+Example command:
+
+```sh
+ gem install rails
+```
+ -->
 
 ### Setup
 
-- Clone this repository or download the Zip folder:
+Clone this repository to your desired folder:
 
+<!--
+Example commands:
+
+```sh
+  cd my-folder
+  git clone git@github.com:myaccount/my-project.git
 ```
-git clone https://github.com/AdnanOlarmmi/Technopreneur.git
+--->
+
+### Install
+
+Install this project with:
+
+<!--
+Example command:
+
+```sh
+  cd my-project
+  gem install
 ```
-
-- Navigate to the location of the folder in your machine:
-
-**``you@your-Pc-name:~$ cd Technopreneur``**
+--->
 
 ### Usage
 
-- After Cloning this repo to your local machine
-- Open the `index.html` in your browser
+To run the project, execute the following command:
 
-### Run Tests
-To track linter errors locally follow these steps:  
+<!--
+Example command:
 
-Download all the dependencies run:
+```sh
+  rails server
 ```
-npm install
+--->
+
+### Run tests
+
+To run tests, run the following command:
+
+<!--
+Example command:
+
+```sh
+  bin/rails test test/models/article_test.rb
 ```
-Track HTML linter errors run:
-```
-npx hint .
-```
-Track CSS linter errors run:
-```
-npx stylelint "**/*.{css,scss}"
-```
-Track JavaScript linter errors run:
-```
-npx eslint .
-```
+--->
 
 ### Deployment
 
-- I used GitHub Pages to deploy my website
-- For more information about publishing sources, see "[About github page](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages#publishing-sources-for-github-pages-sites)"
+You can deploy this project using:
 
-## Author
+<!--
+Example:
 
-👤 **Is-haq Adnan Olamilekan**
+```sh
 
-- GitHub: [@AdnanOlarmmi](https://github.com/adnanolarmmi)
-- Twitter: [@AdnanIshaqOla](https://twitter.com/AdnanIshaqOla)
-- LinkedIn: [Adnan (Olamilekan) Is-haq](https://linkedin.com/in/adnan-is-haq-olamilekan)
+```
+ -->
 
-## Credits
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-- The original design ideal by [Cindy Shin in Behance](https://www.behance.net/adagio07)
-- Project from [Microverse](https://bit.ly/MicroverseTN) html & css module
-- Images inspired by [Unsplash](unsplash.com)
-- Topic inspired by [Khadija Hamdani](https://www.researchgate.net/publication/329972741_Knowledge_based_entrepreneurship_the_role_of_networks)
+<!-- AUTHORS -->
 
-## Contributing
+## 👥 Authors <a name="authors"></a>
+
+> Mention all of the collaborators of this project.
+
+👤 **Author1**
+
+- GitHub: [@githubhandle](https://github.com/githubhandle)
+- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+
+👤 **Author2**
+
+- GitHub: [@githubhandle](https://github.com/githubhandle)
+- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- FUTURE FEATURES -->
+
+## 🔭 Future Features <a name="future-features"></a>
+
+> Describe 1 - 3 features you will add to the project.
+
+- [ ] **[new_feature_1]**
+- [ ] **[new_feature_2]**
+- [ ] **[new_feature_3]**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- CONTRIBUTING -->
+
+## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
-Feel free to check the [issues page](https://github.com/AdnanOlarmmi/Technopreneur/issues).
 
-## Show your support
+Feel free to check the [issues page](../../issues/).
 
-Give a ⭐️ if you like this project and how we manage to build it!
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Acknowledgments
+<!-- SUPPORT -->
 
-- Thanks to the Microverse team for the great curriculum.
-- Thanks to the Code Reviewer(s) for the insightful feedbacks.
-- A great thanks to My coding partner(s), morning session team, and standup team for their contributions.
-- Hat tip to anyone whose code was used.
+## ⭐️ Show your support <a name="support"></a>
 
-## 📝 License
+> Write a message to encourage readers to support your project
 
-This project is [MIT](LICENSE) licensed
+If you like this project...
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- ACKNOWLEDGEMENTS -->
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+> Give credit to everyone who inspired your codebase.
+
+I would like to thank...
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- FAQ (optional) -->
+
+## ❓ FAQ <a name="faq"></a>
+
+> Add at least 2 questions new developers would ask when they decide to use your project.
+
+- **[Question_1]**
+
+  - [Answer_1]
+
+- **[Question_2]**
+
+  - [Answer_2]
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LICENSE -->
+
+## 📝 License <a name="license"></a>
+
+This project is [MIT](./LICENSE) licensed.
+
+_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
