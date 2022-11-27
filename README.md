@@ -39,8 +39,6 @@
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> Implemeted latest HTML5, CSS3 and JavaScript's best markup, styling and coding practices respectively, and likewise made use of Google Fonts Icons.
-
 <details>
   <summary>Client</summary>
   <ul>
