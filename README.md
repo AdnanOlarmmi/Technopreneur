@@ -57,11 +57,9 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Technopreneur] <a name="about-project"></a>
+# 📖 Technopreneur <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
-
-**[your_project__name]** is a...
+> **Technopreneur** is the flagship event of IEDC MEC, and one of the most looked forward to events in MEC. It is the annual entrepreneurial and managerial symposium of Model Engineering College and includes a plethora of events including Idea Pitching, Prototype Development, hackathons, and much more.
 
 ## 🛠 Built With <a name="built-with"></a>
 
