@@ -57,7 +57,7 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 🚀 Video Description <a name="video-description"></a>
+## 📹 Video Description <a name="video-description"></a>
 
 - [Here is a video walk through given by myself](https://www.loom.com/share/b80ba571fff74ae5ae6ef9bca6c27559)
 
