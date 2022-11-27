@@ -131,7 +131,7 @@ npx eslint .
 
 ### Deployment
 
-You can deploy this project using: Gihub,
+You can deploy this project using: GitHub Pages,
 - I used GitHub Pages to deploy my website.
 - For more information about publishing sources, see "[About github page](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages#publishing-sources-for-github-pages-sites)".
 
