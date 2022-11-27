@@ -150,7 +150,7 @@ You can deploy this project using: GitHub Pages,
 ## 🔭 Future Features <a name="future-features"></a>
 
 - [ ] **Implement Transitions Animation for hover effect.**
-- [ ] **Implement a Sign up pages.**
+- [ ] **Implement a Sign up page.**
 - [ ] **Add more pages.**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
