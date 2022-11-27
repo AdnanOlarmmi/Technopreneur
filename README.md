@@ -53,7 +53,7 @@
 
 - **Responsive Design.**
 - **Pixel Perfect design.**
-- **Multiple page app.**
+- **Multiple pages app.**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
