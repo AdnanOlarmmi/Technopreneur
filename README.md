@@ -15,6 +15,7 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
+  - [📹 Video Description](#video-description)
   - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
@@ -55,6 +56,10 @@
 - **Multiple page app.**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🚀 Video Description <a name="video-description"></a>
+
+- [Here is a video walk through given by myself](https://www.loom.com/share/b80ba571fff74ae5ae6ef9bca6c27559)
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
