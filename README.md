@@ -200,44 +200,41 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
 
-If you like this project...
+Give a ⭐️ if you like this project and how I managed to build it!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- ACKNOWLEDGEMENTS -->
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Give credit to everyone who inspired your codebase.
+- The original design ideal by [Cindy Shin in Behance](https://www.behance.net/adagio07).
+- Project from [Microverse](https://bit.ly/MicroverseTN) html & css module
+- Images inspired by [Unsplash](unsplash.com).
+- Topic inspired by [Khadija Hamdani](https://www.researchgate.net/publication/329972741_Knowledge_based_entrepreneurship_the_role_of_networks).
+- Thanks to the Microverse team for the great curriculum.
+- Thanks to the Code Reviewer(s) for the insightful feedbacks.
+- A great thanks to My coding partner(s), morning session team, and standup team for their contributions.
+- Hat tip to anyone whose code was used.
 
-I would like to thank...
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- FAQ (optional) -->
 
 ## ❓ FAQ <a name="faq"></a>
 
 > Add at least 2 questions new developers would ask when they decide to use your project.
 
-- **[Question_1]**
+- **Can I fork and reuse the repository**
 
-  - [Answer_1]
+  - Yes please, feel free.
 
-- **[Question_2]**
+- **Can I improve the repository, and my changes will be accepted if they are good?**
 
-  - [Answer_2]
+  - yes please, nice ideas are welcome please.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- LICENSE -->
 
 ## 📝 License <a name="license"></a>
 
 This project is [MIT](./LICENSE) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
