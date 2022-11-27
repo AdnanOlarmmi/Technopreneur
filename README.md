@@ -62,7 +62,7 @@
 > | --- | ----------------------------------- | ------------------------------------ | --- |
 > |     | ![Screenshot1](./images/screenshots/mobile.gif) | ![Screenshot2](./images/screenshots/desktop.gif) |
 
-- [Here is the link to the live experience](https://adnanolarmmi.github.io/Technopreneur/)
+- [Here is the link to the live experience](https://adnanolarmmi.github.io/Technopreneur/).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
