@@ -50,9 +50,9 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **Responsive Design**
-- **Pixel Perfect design**
-- **Multi pages app**
+- **Responsive Design.**
+- **Pixel Perfect design.**
+- **Multiple page app.**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
