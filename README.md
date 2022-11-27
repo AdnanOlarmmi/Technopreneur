@@ -61,6 +61,8 @@
 
 - [Here is a video walk through given by myself](https://www.loom.com/share/b80ba571fff74ae5ae6ef9bca6c27559)
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 > |     | Mobile version                      | Desktop version                      |     |
