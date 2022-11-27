@@ -65,26 +65,14 @@ After you're finished please remove all the comments and instructions!
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> Describe the tech stack and include only the relevant sections that apply to your project.
+> Implemeted latest HTML5, CSS3 and JavaScript's best markup, styling and coding practices respectively, and likewise made use of Google Fonts Icons.
 
 <details>
   <summary>Client</summary>
   <ul>
-    <li><a href="https://reactjs.org/">React.js</a></li>
-  </ul>
-</details>
-
-<details>
-  <summary>Server</summary>
-  <ul>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
-  </ul>
-</details>
-
-<details>
-<summary>Database</summary>
-  <ul>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
+    <li><a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics">HTML5</a></li>
+    <li><a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics">CSS3</a></li>
+    <li><a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics">JavaScript</a></li>
   </ul>
 </details>
 
@@ -94,9 +82,9 @@ After you're finished please remove all the comments and instructions!
 
 > Describe between 1-3 key features of the application.
 
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
+- **Responsive Design**
+- **Pixel Perfect design**
+- **Multi pages app**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -106,7 +94,7 @@ After you're finished please remove all the comments and instructions!
 
 > Add a link to your deployed project.
 
-- [Live Demo Link](https://yourdeployedapplicationlink.com)
+- [Live Demo Link](https://adnanolarmmi.github.io/Technopreneur/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -121,6 +109,11 @@ To get a local copy up and running, follow these steps.
 ### Prerequisites
 
 In order to run this project you need:
+
+- A text editor
+- A terminal 
+- A web browser to view output e.g Google Chrome
+- An IDE e.g Visual studio code
 
 <!--
 Example command:
