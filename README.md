@@ -84,7 +84,7 @@ In order to run this project you need:
 - A web browser to view output e.g [Google Chrome](https://www.google.com/chrome/).
 - An IDE e.g [Visual studio code](https://code.visualstudio.com/).
 - `node` should be installed in your local machine, [node website](https://nodejs.org/en/download/).
-- Install `npm` package manager use this [to install both node and npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm).
+- Install the `npm` package manager use this [to install both node and npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm).
 - A terminal.
 
 ### Setup
