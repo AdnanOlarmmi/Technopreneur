@@ -101,7 +101,7 @@ git clone https://github.com/AdnanOlarmmi/Technopreneur.git
 
 ### Install
 
-Install all dependencies:
+To install all dependencies, run:
 
 ```
 npm install
