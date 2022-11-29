@@ -85,7 +85,7 @@ In order to run this project you need:
 - An IDE e.g [Visual studio code](https://code.visualstudio.com/).
 - `node` should be installed in your local machine, [node website](https://nodejs.org/en/download/).
 - Install the `npm` package manager use this [to install both node and npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm).
-- A terminal.
+- [A terminal](https://code.visualstudio.com/docs/terminal/basics).
 
 ### Setup
 
