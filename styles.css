@@ -469,6 +469,7 @@ img {
   }
 
   .sec-nav__list {
+    padding: 0.5rem 0;
     justify-content: flex-end;
     gap: 2em;
     align-items: center;
@@ -478,7 +479,7 @@ img {
   }
 
   .sec-nav__item:last-child {
-    margin-right: 2rem;
+    margin-right: 11rem;
   }
 
   .sec-nav__list li,
