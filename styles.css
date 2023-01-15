@@ -541,6 +541,11 @@ img {
   .hero {
     background-image: url(images/backgrounds/main-bg.png);
     padding: 6rem 11rem 8.5rem;
+    background-position: -15rem -0.1rem;
+  }
+
+  .hero.about {
+    background-position: 0 0;
   }
 
   .hero .hero__subtitle {
