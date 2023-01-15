@@ -101,6 +101,7 @@ img {
   margin-right: 1rem;
   cursor: pointer;
   margin-top: 1rem;
+  transform: scale(2);
 }
 
 .show {
