@@ -41,7 +41,7 @@ a,
 a:active,
 a:visited {
   text-decoration: none;
-  color: inherit;
+  color: var(--gray-black);
 }
 
 img {
@@ -531,6 +531,12 @@ img {
     padding: 0.5em;
     visibility: visible;
     position: static;
+    transition: all 0.3s ease-in-out;
+  }
+
+  #tecno:hover {
+    color: var(--tertiary-color);
+    background-color: var(--primary-color);
   }
 
   .XIcon {
@@ -544,8 +550,13 @@ img {
   }
 
   .main-nav__list li a {
-    color: var(--gray-black);
     font-family: "Lato", sans-serif;
+    font-weight: 700;
+    transition: color 0.2s ease-in-out;
+  }
+
+  .main-nav__list li:hover a {
+    color: var(--primary-color);
   }
 
   .hero {
