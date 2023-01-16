@@ -1,7 +1,11 @@
 const hamburgerEl = document.querySelector('.burger');
 const XIconEl = document.querySelector('.XIcon');
 const mainMobileNavListEl = document.querySelector('.main-nav__list__mobile');
-const featuredSpeakers = document.querySelector('.featured-speakers__items');
+const featuredSpeakersItems = document.querySelector('.featured-speakers__items');
+const moreSpeakersEl = document.querySelector('.featured-speakers__more');
+const featuredSpeakersEl = document.querySelector('.featured-speakers');
+
+
 
 const featuredSpeakersArray = [
   {
@@ -62,6 +66,12 @@ const toggleNav = () => {
   });
 };
 
+const moreSpeakers = () => {
+  moreSpeakersEl.addEventListener('click', ()=> {
+    featuredSpeakersEl.classList.toggle('more')
+  })
+}
+
 const renderFeaturedSpeaker = () => {
   let markup = '';
   featuredSpeakersArray.forEach((elem) => {
@@ -81,8 +91,9 @@ const renderFeaturedSpeaker = () => {
   </div>`;
   });
 
-  featuredSpeakers.innerHTML = markup;
+  featuredSpeakersItems.innerHTML = markup;
 };
 
 toggleNav();
 renderFeaturedSpeaker();
+moreSpeakers();

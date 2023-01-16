@@ -261,12 +261,12 @@ img {
 
 .featured-speakers {
   margin-top: 3rem;
-  gap: 3rem;
+  gap: 1.5rem;
   font-size: 1.5rem;
 }
 
 .featured-speakers__heading {
-  margin: 0 auto;
+  margin: 0 auto 1.5rem;
 }
 
 .featured-speakers__items {
@@ -296,10 +296,52 @@ img {
   background-position: 3% 1%;
 }
 
+.featured-speakers__item:nth-child(n+3) {
+  position: absolute;
+  visibility: hidden;
+}
+
+.featured-speakers__more::before {
+  content: 'More';
+  margin-right: 0.5rem;
+}
+
+.featured-speakers__more::after {
+  content: 'v';
+  color: var(--primary-color);
+  font-weight: bold;
+}
+
+.more .featured-speakers__item:nth-child(n+3) {
+  position: static;
+  visibility: visible;
+}
+
+.more .featured-speakers__more::before {
+  content: 'See Less';
+}
+
+.more .featured-speakers__more::after {
+  content: '^';
+}
+
 .featured-speaker {
   gap: 0.7rem;
   margin-top: 1rem;
   flex-basis: 70%;
+}
+
+.featured-speakers__more {
+  cursor: pointer;
+  text-align: center;
+  font-size: 1.2rem;
+  border: 1px solid gray;
+  padding: 1rem;
+  margin: 1rem;
+}
+
+.featured-speakers__more span {
+  color: var(--primary-color);
 }
 
 .featured-speaker__name {
@@ -469,7 +511,7 @@ img {
   line-height: 1.1;
 }
 
-@media only screen and (min-width: 768px) {
+@media only screen and (min-width: 900px) {
   body {
     width: 100vw;
   }
@@ -552,11 +594,19 @@ img {
   .main-nav__list li a {
     font-family: "Lato", sans-serif;
     font-weight: 700;
-    transition: color 0.2s ease-in-out;
+  }
+
+  .main-nav__list li a,
+  .sec-nav__list li:hover a {
+    transition: all 0.2s ease-in-out;
   }
 
   .main-nav__list li:hover a {
     color: var(--primary-color);
+  }
+
+  .sec-nav__list li:hover a {
+    filter: invert(60%) sepia(87%) saturate(5934%) hue-rotate(341deg) brightness(106%) contrast(85%);
   }
 
   .hero {
@@ -569,14 +619,18 @@ img {
     background-position: 0 0;
   }
 
+  .hero .hero__heading {
+    font-size: 3.5rem;
+  }
+
+  .hero.about .hero__heading {
+    font-size: 3rem;
+  }
+
   .hero .hero__subtitle {
     font-size: 2.5rem;
     font-weight: 500;
     margin-bottom: 1.3rem;
-  }
-
-  .hero .hero__heading {
-    font-size: 3.5rem;
   }
 
   .hero .hero__body .hero__text {
@@ -643,6 +697,16 @@ img {
     grid-template-columns: repeat(2, 1fr);
     gap: 3rem;
     padding: 2rem 11rem;
+  }
+
+  .featured-speakers__item:nth-child(n+3) {
+    position: static;
+    visibility: visible;
+  }
+
+  .featured-speakers__more {
+    position: absolute;
+    visibility: hidden;
   }
 
   .featured-speaker__about {
