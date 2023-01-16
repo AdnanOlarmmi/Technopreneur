@@ -5,8 +5,6 @@ const featuredSpeakersItems = document.querySelector('.featured-speakers__items'
 const moreSpeakersEl = document.querySelector('.featured-speakers__more');
 const featuredSpeakersEl = document.querySelector('.featured-speakers');
 
-
-
 const featuredSpeakersArray = [
   {
     name: 'Ali Morshedlou',
@@ -67,10 +65,10 @@ const toggleNav = () => {
 };
 
 const moreSpeakers = () => {
-  moreSpeakersEl.addEventListener('click', ()=> {
-    featuredSpeakersEl.classList.toggle('more')
-  })
-}
+  moreSpeakersEl.addEventListener('click', () => {
+    featuredSpeakersEl.classList.toggle('more');
+  });
+};
 
 const renderFeaturedSpeaker = () => {
   let markup = '';
