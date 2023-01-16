@@ -310,6 +310,7 @@ img {
   content: 'v';
   color: var(--primary-color);
   font-weight: bold;
+  font-size: 1rem;
 }
 
 .more .featured-speakers__item:nth-child(n+3) {
@@ -323,6 +324,7 @@ img {
 
 .more .featured-speakers__more::after {
   content: '^';
+  font-size: 1.3rem;
 }
 
 .featured-speaker {
