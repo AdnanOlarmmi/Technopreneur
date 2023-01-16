@@ -724,9 +724,14 @@ img {
 
   /* about page styles */
 
+  .last-summit__image-wrapper {
+    width: 35vw;
+    height: 21vw;
+  }
+
   .last-summit__images {
     flex-direction: row;
-    justify-content: center;
+    margin: 0 auto;
   }
 
   .logo-about {
