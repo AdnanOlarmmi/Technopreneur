@@ -536,7 +536,7 @@ img {
     margin-right: 11rem;
   }
 
-  .sec-nav__list li,
+  .sec-nav__list a,
   .main-footer__desktop {
     color: var(--white);
   }
